@@ -41,7 +41,7 @@ public class Client extends ConnectionObject implements chatFunctionality {
         } catch (XMLStreamException xmlStreamException) {
             
         }finally {
-            //closeCrap();
+
         }
     }
 
