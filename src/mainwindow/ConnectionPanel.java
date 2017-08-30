@@ -149,11 +149,6 @@ public class ConnectionPanel extends JFrame {
                         .addContainerGap(GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
     }
-/*
-    public Container getContentPane() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-*/
     private class startProgram implements ActionListener {
 
         public void actionPerformed(ActionEvent evt) {
